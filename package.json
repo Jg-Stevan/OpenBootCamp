@@ -1,0 +1,25 @@
+{
+  "name": "openbootcamp",
+  "version": "1.0.0",
+  "description": "curso de openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jg-Stevan/OpenBootCamp.git"
+  },
+  "keywords": [
+    "bootcamp",
+    "hola",
+    "mundo"
+  ],
+  "author": "Julian Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jg-Stevan/OpenBootCamp/issues"
+  },
+  "homepage": "https://github.com/Jg-Stevan/OpenBootCamp#readme"
+}

@@ -4,7 +4,7 @@
   "description": "curso de openbootcamp",
   "main": "index.js",
   "scripts": {
-    "saludo": "node index.js",
+    "openBootcamp": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
